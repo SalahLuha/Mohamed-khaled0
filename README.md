@@ -19,12 +19,6 @@
 
 - 📫 How to reach me **mohamedalshraby3@gmail.com**
 
-## <b> Let's Connect..!</b><img src="https://github.com/Mohamed-khaled0/Mohamed-khaled0/raw/main/assets/mdImages/handshake.gif" width ="80">
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-khaled-abdallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-khaled-abdallah/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxnyjmck4avpc9q-xd0fmlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxnyjmck4avpc9q-xd0fmlw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mohamedalshraby3?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohamedalshraby3?hr_r=1" height="30" width="40" /></a>
-</p>
 
 <br>
 
