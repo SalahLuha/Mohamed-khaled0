@@ -63,10 +63,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Netflix-SQL_Query&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Mohamed-khaled0/Task-3-Exploratory-Data-Analysis-Retail-Using-Excel-Tableau-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Exploratory-Data-Analysis-Retail&theme=tokyonight" />
-</a>
-
 
 <a href="https://github.com/Mohamed-khaled0/Spotify-SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Spotify-SQL&theme=tokyonight" />
