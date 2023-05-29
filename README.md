@@ -51,4 +51,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<a href="https://github.com/Mohamed-khaled0/SQL-Northwind2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=SQL-Northwind2021&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Mohamed-khaled0/COVID-Data-Exploration.SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=SQL-COVID-Data-Exploration.SQL&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Mohamed-khaled0/SQL-Northwind2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=SQL-Northwind2021&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Mohamed-khaled0/SQL-Northwind2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=SQL-Northwind2021&theme=tokyonight" />
+</a>
+
 
