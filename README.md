@@ -11,10 +11,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- 🌱 I’m currently open for an Intern or a new job opportunity
-- 🌱 I’m currently learning **Test Automation , API Testing , Database Testing , Performance Testing **
+- 🌱 I’m currently open for an Intern or a new job opportunity .
+- 🌱 I’m currently learning **Test Automation , API Testing , Database Testing , Performance Testing .
 
-- 💬 Ask me about **ISTQB,STLC & SDLC,Manual Testing,Jira ,SQL**
+- 💬 Ask me about **ISTQB,STLC & SDLC,Manual Testing,Jira ,SQL .**
 
 - 📫 How to reach me **mohamedalshraby3@gmail.com**
 
