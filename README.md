@@ -42,14 +42,14 @@
 <p align="center">
   <a href="https://mohamed-khaled0.github.io/My_Website//"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/Mohamed-khaled0"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
- 	<a href="mohamedalshraby3@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
+        <a href="mohamedalshraby3@gmail.com">   <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/></a>
 
 	
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a href="https://github.com/Mohamed-khaled0/SQL-Northwind2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=SQL-Northwind2021&theme=tokyonight" />
@@ -69,3 +69,4 @@
 </a>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
