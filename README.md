@@ -4,11 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Software+Test+Engineer;"></a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
@@ -26,9 +21,15 @@
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+<a target="_blank" align="center">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-khaled0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mohamed-khaled0"/>
 </a>
 </div>
+
 
 <br>
   
@@ -42,8 +43,8 @@
 <p align="center">
   <a href="https://mohamed-khaled0.github.io/My_Website//"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/Mohamed-khaled0"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
-        <a href="mohamedalshraby3@gmail.com">   <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/></a>
+	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+        <a href="mohamedalshraby3@gmail.com">   <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
 
 	
 </p>
