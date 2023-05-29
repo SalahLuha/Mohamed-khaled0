@@ -12,9 +12,9 @@
 <br>
 
 - 🌱 I’m currently open for an Intern or a new job opportunity
-- 🌱 I’m currently learning **Test Automation**
+- 🌱 I’m currently learning **Test Automation , API Testing , Database Testing , Performance Testing **
 
-- 💬 Ask me about **ISTQB,STLC & SDLC,Manual Testing,Jira ,SQL,Java**
+- 💬 Ask me about **ISTQB,STLC & SDLC,Manual Testing,Jira ,SQL**
 
 - 📫 How to reach me **mohamedalshraby3@gmail.com**
 
