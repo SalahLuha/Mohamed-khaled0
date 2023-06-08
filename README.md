@@ -20,11 +20,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- 🌱 I’m currently open for an Intern or a new job opportunity .
-- 🌱 I’m currently learning **Test Automation , API Testing , Database Testing , Performance Testing  .**
-- 💬 Ask me about **ISTQB,STLC & SDLC,Manual Testing,Jira ,SQL .**
+- :school: I am a `Student` at Faculty of Computer Science at Thebes Academy
+- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`,
+- 🌱 I’m currently learning **Test Automation , API Testing , Database Testing , Performance Testing  **
+- :technologist: I love using Software as a solution for every `Problem`
 
-- 📫 How to reach me **mohamedalshraby3@gmail.com**
+- :nerd_face: Always `learning new things`
+- :computer: I am a Software Tester at `UTest`
 
 <br>
  <!-- ======= End About Section ======= -->
