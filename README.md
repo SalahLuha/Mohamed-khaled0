@@ -20,8 +20,8 @@
 <br>
 
 - :school: I am a `Student` at Faculty of Computer Science at Thebes Academy
-- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`,
-- 🌱 I’m currently learning **API Testing , Database Testing , Performance Testing  **
+- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`
+- 🌱 I’m currently learning `API Testing` , `Database Testing` , `Performance Testing` 
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 - :computer: I am a Software Tester at `UTest`
