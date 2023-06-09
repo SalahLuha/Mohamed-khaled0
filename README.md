@@ -7,7 +7,6 @@
 <a target="_blank" align="right">
 <p style="text-align:right;"> <img align='right' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
 </a>
-
 <!-- 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 -->
