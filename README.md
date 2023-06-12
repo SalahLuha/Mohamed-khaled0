@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Software+Test+Engineer;"></a>
 </p>
-
 <!-- ======= Photos Section ======= -->
 <a target="_blank" align="right">
 <p style="text-align:right;"> <img align='right' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
