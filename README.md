@@ -23,7 +23,6 @@
 
 <br>
  <!-- ======= End About Section ======= -->
-
  <!-- =======  Profile views Section ======= -->
 <a href="https://github.com/Mohamed-khaled0/">
  <!-- ======= Profile views Section ======= -->
