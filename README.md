@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning `API Testing` , `Database Testing` , `Performance Testing` 
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
-- :computer: I am a Software Tester at `UTest`
+<!--- :computer: I am a Software Tester at `UTest`-->
 
 <br>
  <!-- ======= End About Section ======= -->
