@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Mohamed Khaled </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Flutter+Mobile+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++IOS+Mobile+Developer;"></a>
 </p>
 <!-- ======= Photos Section ======= -->
 <a target="_blank" align="right">
@@ -18,7 +18,7 @@
 
 - :school: I am a `Student` at Faculty of Computer Science at Thebes Academy.
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`
-- 🌱 I’m currently learning `Flutter`  
+- 🌱 I’m currently learning `Native IOS Apps Using Swift & Objective C`  
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 
