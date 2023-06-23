@@ -55,7 +55,6 @@
 </div>
 
  <!-- ======= End Github Stats Section ======= -->
-
 <br>
 
  <!-- ======= Connect Section ======= -->
