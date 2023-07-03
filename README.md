@@ -1,15 +1,15 @@
-<h1 align="center"><b>Hi , I'm Mohamed Khaled </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div id="header" align="center">
+    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+     </div>
+</div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamed👨‍💻+%F0%9F%91%8B;;" alt="Headline" />
+    </div>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++IOS+Mobile+Developer;"></a>
+  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++IOS+Mobile+Developer;"></a>
 </p>
-<!-- ======= Photos Section ======= -->
-<a target="_blank" align="right">
-<p style="text-align:right;"> <img align='right' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
-</a>
-<!-- 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
--->
-<!-- ======= End Photos Section ======= -->
+
  
 <!-- ======= About Section ======= -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
