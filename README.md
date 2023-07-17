@@ -7,18 +7,17 @@
     </div>
 
 <p align="center">
-  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++IOS+Mobile+Developer;Software+Engineer"></a>
+  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Flutter+Mobile+Developer;Software+Engineer"></a>
 </p>
 
- 
 <!-- ======= About Section ======= -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" </picture>
 <br>
 
-- :school: I am a `Student` at Faculty of Computer Science at Thebes Academy.
+- :school: I am a `Student` at Faculty of Computer Science at Thebes Academy
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`
-- 🌱 I’m currently learning `Native IOS Apps Using Swift & Objective C`  
+- 🌱 I’m currently learning `Flutter`  
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 
@@ -42,9 +41,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 </p>
 
-
- <!-- ======= End Skills Section ======= -->
- 
+ <!-- ======= End Skills Section ======= --> 
  <!-- ======= Github Stats Section ======= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -56,7 +53,6 @@
 
  <!-- ======= End Github Stats Section ======= -->
 <br>
-
  <!-- ======= Connect Section ======= -->
 ## 🙋‍♀️ Let's Connect
 <p align="center">
