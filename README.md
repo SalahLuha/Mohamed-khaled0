@@ -5,7 +5,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamed👨‍💻+%F0%9F%91%8B;;" alt="Headline" />
     </div>
-
+ 
 <p align="center">
   <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Flutter+Mobile+Developer;Software+Engineer"></a>
 </p>
