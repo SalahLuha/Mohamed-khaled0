@@ -81,7 +81,6 @@
 </a>
 
  <!-- ======= End Repository Overview Section ======= -->
-
  <!-- ======= Snake game Section ======= -->
 
 <div align="center">
